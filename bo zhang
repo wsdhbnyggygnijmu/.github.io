@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的个人网站</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        img { border-radius: 50%; width: 150px; }
+    </style>
+</head>
+<body>
+    <h1>你好，欢迎来到我的空间！</h1>
+    <img src="https://source.unsplash.com/random/600x400?nature" alt="背景图">
+    <p>这里可以写你的简介、作品或联系方式。</p>
+    <a href="mailto:你的邮箱">📧 联系我</a>
+</body>
+</html>
